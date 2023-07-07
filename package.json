@@ -1,5 +1,33 @@
 {
+<<<<<<< HEAD
   "devDependencies": {
     "gh-pages": "^5.0.0"
+=======
+  "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "middleware": "^1.0.0",
+    "nodeman": "^1.1.2",
+    "react-router-dom": "^6.14.1",
+    "react-social-icons": "^5.15.0",
+    "setup": "^0.0.3",
+    "start": "^5.1.0",
+    "style": "^0.0.3",
+    "styled-components": "^5.3.11",
+    "yarn": "^1.22.19"
+  },
+  "name": "ecommerce-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint-plugin-react": "^7.25.3"
+>>>>>>> 34392a9713c529a20593c7d97281287fb0f20380
   }
 }
