@@ -168,7 +168,7 @@ const Cart = () => {
                                 <ProductAmount>1</ProductAmount>
                                 <Remove/>
                             </ProductAmountContainer>
-                            <ProductPrice>$ 30</ProductPrice>
+                            <ProductPrice>Rs 300</ProductPrice>
                         </PriceDetail>
                     </Product>
                     <Hr/>
@@ -188,7 +188,7 @@ const Cart = () => {
                                 <ProductAmount>2</ProductAmount>
                                 <Remove/>
                             </ProductAmountContainer>
-                            <ProductPrice>$ 189</ProductPrice>
+                            <ProductPrice>Rs 189</ProductPrice>
                         </PriceDetail>
                     </Product>
                 </Info>
@@ -196,19 +196,19 @@ const Cart = () => {
                     <SummaryTitle>ORDER SUMMARY</SummaryTitle>
                     <SummaryItem>
                         <SummaryItemText>Subtotal</SummaryItemText>
-                        <SummaryItemPrice>$ 219</SummaryItemPrice>
+                        <SummaryItemPrice>Rs 489</SummaryItemPrice>
                     </SummaryItem>
                     <SummaryItem>
                         <SummaryItemText>Estimated Shipping</SummaryItemText>
-                        <SummaryItemPrice>$ 6</SummaryItemPrice>
+                        <SummaryItemPrice>Rs 60</SummaryItemPrice>
                     </SummaryItem>
                     <SummaryItem>
                         <SummaryItemText>Shipping Discount</SummaryItemText>
-                        <SummaryItemPrice>$ -6</SummaryItemPrice>
+                        <SummaryItemPrice>Rs -60</SummaryItemPrice>
                     </SummaryItem>
                     <SummaryItem type="total">
                         <SummaryItemText>Total</SummaryItemText>
-                        <SummaryItemPrice>$ 219</SummaryItemPrice>
+                        <SummaryItemPrice>Rs 489</SummaryItemPrice>
                     </SummaryItem>
                     <SummaryButton>Checkout Now</SummaryButton>
                 </Summary>
